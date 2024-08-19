@@ -1,0 +1,17 @@
+name: tau_resistance
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.11
+  - pip
+  - pytorch
+  - torchvision
+  - pip:
+    - matplotlib
+    - pandas
+    - xgboost
+    - optuna
+    - scikit-learn
+    - jupyterlab
+    - seaborn
