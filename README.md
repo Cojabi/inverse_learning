@@ -1,6 +1,8 @@
-# inverse_learning
+# Inverse learning for estimating latent constructs such as cognitive resilience
 
 In this repository, you will find the code to our preprint titled "Rethinking the residual approach: Leveraging machine learning to operationalize cognitive resilience in Alzheimer’s disease". It has been submitted for publication in a peer-reviewed journal.
+
+A pre-print will be published shortly.
 
 ![inverse learning versus standard residual approach](conclusion.png "Inverse learning versus standard residual approach")
 
